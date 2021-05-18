@@ -1,0 +1,32 @@
+table, tr, td, th
+	{
+		border: 1px solid black;
+		border-collapse: collapse;
+		padding: 5px;
+		width: 50%
+	}
+
+tr:nth-child(even)
+	{
+		background-color: #a8e6cf;
+	}
+
+tr:nth-child(even)
+	{
+		background-color: #dcedc1;
+	}
+
+th
+	{
+		background-color: #ff8b94;
+	}
+
+tr:hover
+	{
+		background-color: #ffd33b;
+	}
+
+p
+	{font-family: 'great Vibes', cursive;
+
+	}
